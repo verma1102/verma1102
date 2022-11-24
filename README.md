@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working as a **React-Developer**
 
 - 🌱 I’m currently learning **React-Redux**
 
